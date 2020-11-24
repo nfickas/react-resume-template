@@ -73,12 +73,16 @@
         "level":"85%"
       },
       {
-        "name":"",
+        "name":"Go",
         "level":"50%"
       },
       {
-        "name":"",
-        "level":"80%"
+        "name":"Grafana",
+        "level":"75%"
+      },
+      {
+        "name":"Istio",
+        "level":"60%"
       }
     ]
   },
